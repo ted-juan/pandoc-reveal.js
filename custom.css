@@ -1,0 +1,54 @@
+.reveal {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+  color: #333; }
+
+.reveal table {
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.reveal h4 {
+  font-size: 1.25em;
+  color: #000077;
+  font-family: "Quicksand", sans-serif;
+  line-height: 1.3em;
+  text-transform: none;
+  letter-spacing: -0.04em;
+}
+
+.reveal table th {
+  font-weight: bold;
+}
+
+.reveal table th {
+  background: #DDFFFF;
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  border-bottom: 1px solid;
+}
+
+.reveal table td {
+  background: #F0F0F0;
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  border-bottom: 1px solid;
+}
+
+tr.odd td {
+  background: #CCCCCC;
+}
+
+li strong {
+  color: blue;
+}
+
+li p {
+  line-height: 1.6em;
+}
+
+code {
+  color: #FF0033;
+}
